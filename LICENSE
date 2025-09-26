@@ -1,0 +1,10 @@
+CC-BY-NC-SA 4.0 License with Additional Terms
+This dataset is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (CC-BY-NC-SA 4.0). To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+Additional Terms
+
+1. Non-Commercial Use: All derivatives of this dataset must maintain non-commercial terms as per the CC-BY-NC-SA 4.0 license.
+
+2. Model Deployment: Please incorporate uncertainty estimation and human oversight prompts when deploying models trained on this dataset to ensure safe and responsible use.
+
+3. Prohibited Uses: Unauthorized use of this dataset for training commercial large language models (LLMs) or commercial AI systems is explicitly prohibited. The Licensor reserves the right to take legal action against violations involving lack of proper attribution or commercial use of the dataset.
+

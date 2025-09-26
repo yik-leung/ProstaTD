@@ -1,0 +1,4 @@
+# ninja log v5
+0	3100	1755069058554534131	/ssd/prostate/detection/Deformable-DETR/models/ops/build/temp.linux-x86_64-cpython-38/ssd/prostate/detection/Deformable-DETR/models/ops/src/cpu/ms_deform_attn_cpu.o	7bb18d7160015afb
+7	9814	1755069099750702419	/ssd/prostate/detection/Deformable-DETR/models/ops/build/temp.linux-x86_64-cpython-38/ssd/prostate/detection/Deformable-DETR/models/ops/src/vision.o	84d67ba838e2db97
+7	11390	1755069101322708814	/ssd/prostate/detection/Deformable-DETR/models/ops/build/temp.linux-x86_64-cpython-38/ssd/prostate/detection/Deformable-DETR/models/ops/src/cuda/ms_deform_attn_cuda.o	3b898ea8daa6c8c3
