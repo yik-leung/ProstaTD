@@ -100,31 +100,9 @@ For details, please check **the models** at [training folder](training/README.md
   </tr>
 </table>
 
-We have developed two customized annotation tools to facilitate structured surgical triplet labeling tasks:
+To access our annotation tools, please visit [Surglabel](https://github.com/yik-leung/Surglabel)
 
-1. Triplet-labelMe Annotation Tool 
-This tool is built upon the open-source [LabelMe](https://github.com/wkentaro/labelme) framework, specially adapted for **bounding box annotation** and **instrument type labeling**.  
-In addition to standard functionalities, it supports direct modification of **single triplet annotations** (instrument, action, target, bbox).  
-We have also introduced a series of convenient enhancements, such as:  
-- Default auto-save  
-- More intuitive shortcut key definitions  
-- Flexible visual customization (color schemes, label transparency, font and line thickness)  
-- Fixes for several long-standing bugs in LabelMe that previously caused crashes or invalid operations  
-- Versatile other surgical tasks
-- ...
-
-2. SurgLabel Annotation Tool 
-This tool is designed for **batch annotation of actions and targets**, with support for both bounding box and segmentation modes.  
-It also provides a rich set of personalization and utility features, including:  
-- Customizable colors, fonts, line thickness, and transparency 
-- Multi-language support  
-- Statistical data summaries for annotation analysis  
-- Enhanced user-friendly workflows optimized for large-scale annotation
-- Versatile other surgical tasks
-- ...
   
-*Both tools will be released with the final version of the paper.*
-
 ## 🙏 Acknowledgement
 Part of the codes are borrowed from [mmdetection](https://github.com/open-mmlab/mmdetection), [ultralytics](https://github.com/ultralytics/ultralytics), [detectron2](https://github.com/facebookresearch/detectron2), [LabelMe](https://github.com/wkentaro/labelme).
 
